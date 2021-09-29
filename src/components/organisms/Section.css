@@ -1,0 +1,9 @@
+section h1 {
+    display: flex;
+    justify-content: center;
+    color: red;
+}
+.cardsContainer {
+    display: flex;
+    justify-content: space-around;
+}
